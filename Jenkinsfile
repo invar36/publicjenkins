@@ -6,7 +6,7 @@ pipeline {
                 sh 'echo "Hello World"'
                 sh '''
                     echo "basic multi line sh"
-                    top
+                    
                 '''
             }
         }
