@@ -5,7 +5,7 @@ pipeline {
             steps {
                 sh 'echo "Hello World"'
                 sh '''
-                    echo "basic multi line sh"
+                    echo "test1"
                     
                 '''
             }
